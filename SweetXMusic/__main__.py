@@ -63,7 +63,7 @@ async def init():
     except:
         pass
     await SweetX.decorators()
-    LOGGER("SweetXMusic").info("Yummi Music start n/ Your Girlfriend Is Very Dangerous n/ is ko sambhalna aapki bus ki baat Na hai apni girlfriend ke number Amisha Patel mein fenk Maro")
+    LOGGER("SweetXMusic").info("Sweet Music start ")
     await idle()
 
 
